@@ -1,5 +1,0 @@
-ytLink : https://www.youtube.com/watch?v=7CqJlxBYj-M
-time : 1:14:00
-githubLink : https://github.com/beaucarnes/mern-exercise-tracker-mongodb
-DbUser : Aryan
-DbPassword : cCHTesGFSrVGHbf3
