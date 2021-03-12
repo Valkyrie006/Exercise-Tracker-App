@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # additional
-/backend/.env
-../virtual
-../tutorial.txt
+*.env
+*tutorial.txt
+*virtual
