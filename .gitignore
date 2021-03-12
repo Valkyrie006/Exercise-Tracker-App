@@ -1,4 +1,2 @@
-node_modules/
-tutorial
-.env
-virtual
+*node_modules
+*.env
